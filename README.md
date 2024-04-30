@@ -1,4 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
+### NAME: SHANMUGAVEL RM 
+### REGISTER NO: 212222230142
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
