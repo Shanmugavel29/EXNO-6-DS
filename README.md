@@ -1,6 +1,4 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-### NAME: SHANMUGAVEL RM 
-### REGISTER NO: 212222230142
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
@@ -20,75 +18,93 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- <img width="949" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/345d9f74-8e7b-4eeb-883c-ab251e02ab56">
- <img width="955" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/b17d99e6-665a-4e17-96f1-4e79870d0b4c">
- <img width="955" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/92eafe82-9f17-4010-8ae5-c11029e4f242">
- <img width="956" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/e64f2d81-0afa-4575-b229-20361426caf5">
- <img width="947" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/a11f1184-60dc-4b7e-a072-91db75f940d6">
- <img width="957" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/48933057-05af-4b3c-88fc-912676604508">
- <img width="960" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/c5515f77-f0c6-4f6d-88b6-ac7a42b46841">
- <img width="956" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/77c181e5-b2cc-4cf0-bae7-88b1657ff09a">
- <img width="947" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/e80e3c75-d4ae-4a60-a392-75e4e1720415">
- <img width="953" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/1be46dc1-9fbf-47ce-aa10-914a06b22aac">
- <img width="951" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/7e9a53d6-7df8-4401-96d8-04e264732a68">
- <img width="952" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/1d20bd44-c0bd-4546-aa1e-3eb93753de01">
- <img width="953" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/afa30ffa-7276-4578-8e5f-ff495ab4895a">
- <img width="950" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/58ab7d87-5558-4508-bbec-617656cf1ae4">
- <img width="955" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/2a3779ad-8d59-4545-8ff2-4e4454db3878">
- <img width="952" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/ca8dc3ab-4911-4453-bc88-071fb250e675">
- <img width="949" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/fce592aa-8fc7-49a7-bf9b-067891f0032a">
- <img width="952" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/76158afa-2782-4898-9c17-4fe53786fe44">
- <img width="954" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/0900b189-d883-4d0f-93a6-0d6e913b827c">
- <img width="950" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/b77be813-e802-4167-8f29-c86d4ea8dd4e">
- <img width="951" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/747e0d49-5844-469f-b65a-6ec1b2cdfaca">
- <img width="950" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/4e7b0535-20b1-44b1-b535-c00df27a2d99">
- <img width="941" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/ef2fbaf7-1b34-4131-a6f7-113960b080c4">
- <img width="951" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/d6389e90-1c03-4df5-93fc-df959f5a8a47">
- <img width="948" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/11f79888-a28d-43b4-901f-acf65630ea2d">
- <img width="953" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/bd9944ca-737a-4b3d-98e4-5b9f047a9363">
- <img width="956" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/d0f05eb2-80db-47dc-ab62-7a637f01889f">
- <img width="955" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/b46483ea-ef88-4bd1-97da-2287b46fc646">
- <img width="957" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/3efc5edd-c80d-48e9-85be-ade70e719365">
- <img width="957" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/72afb06f-a087-4728-bc88-f704a3692c0f">
- <img width="951" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/7a0c97d5-2803-451c-9804-ff7f393ddff4">
- <img width="959" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/6c45f5fe-6cdb-4d23-abe8-df623c9ce3ca">
- <img width="958" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/31fecfb5-dd5b-4cf5-b96c-533e07069c77">
- <img width="939" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/dff34943-b0ea-4c1f-bb97-aad2831fab2f">
- 
+ Include the necessary coding and corresponding screenshots
+ NAME : SHANMUGAVEL RM
+ REG NO : 212222230142
 
+```python
+ import pandas as pd
+ import seaborn as sns
+ import matplotlib.pyplot as plt
+ df=pd.read_csv("titanic_dataset.csv")
+ df.head()
+```
+<img width="1433" height="275" alt="image" src="https://github.com/user-attachments/assets/1beac0e8-3112-4963-90a1-d9246d07e378" />
 
+```python
+ x=[1,2,3,4,5]
+ y=[3,6,2,7,1]
+ sns.lineplot(x=x,y=y)
+ plt.title('Line Plot')
+```
+<img width="881" height="610" alt="image" src="https://github.com/user-attachments/assets/b13f6bff-b834-4eab-9000-011754866b4a" />
 
+```python
+ x=[1,2,3,4,5]
+ y1=[3,5,2,6,1]
+ y2=[1,6,4,3,8]
+ y3=[5,2,7,1,4]
+ sns.lineplot(x=x,y=y1)
+ sns.lineplot(x=x,y=y2)
+ sns.lineplot(x=x,y=y3)
+ plt.title('Multi Line Plot')
+```
+<img width="904" height="620" alt="image" src="https://github.com/user-attachments/assets/460b97fe-47f0-44c9-9b96-67bbb3f43488" />
 
+```python
+ plt.figure(figsize=(8,5))
+ sns.barplot(x='Embarked',y='Fare',data=df,palette='rainbow')
+ plt.title("Fare Of Passenger By Embarked Town")
+```
+<img width="1381" height="726" alt="image" src="https://github.com/user-attachments/assets/f9e78c7c-64bf-4846-8860-1e53fa1fc95d" />
 
+```python
+ sns.scatterplot(x="Age", y="Fare", data=df)
+ plt.title('Scatterplot of Age vs Fare')
+ plt.show()
+```
+<img width="765" height="552" alt="image" src="https://github.com/user-attachments/assets/c909a5ae-c9ea-4c13-9e31-01d560d27b53" />
 
+```python
+ sns.scatterplot(x="Age", y="Fare", size="Pclass", data=df, sizes=(30, 200))
+ plt.title('Bubble Chart of Age vs Fare, Size by Passenger Class')
+ plt.show()
+```
+<img width="886" height="528" alt="image" src="https://github.com/user-attachments/assets/869b8a66-0038-44d0-ad66-4ce826e9492a" />
 
+```python
+sns.histplot(data=df,x="Pclass",hue="Survived",kde=True)
+```
+<img width="942" height="493" alt="image" src="https://github.com/user-attachments/assets/abe08ced-e4fd-41e3-b3b3-5c3d5fa8a6ed" />
 
+```python
+ sns.boxplot(x='Pclass',y='Age',data=df,palette='rainbow')
+ plt.title("Age By Passenger Class")
+```
+<img width="1361" height="701" alt="image" src="https://github.com/user-attachments/assets/187910b1-fe54-448e-af57-09b7575d165a" />
 
+```python
+ sns.violinplot(x="Pclass", y="Fare", data=df)
+ plt.title('Violin Plot of Fare by Passenger Class')
+ plt.show()
+```
+<img width="885" height="527" alt="image" src="https://github.com/user-attachments/assets/38634ff9-aad7-4f70-9e09-a69b2bb8e1a6" />
 
+```python
+ sns.kdeplot(data=df['Age'], shade=True)
+ plt.title('Density Plot of Passenger Ages')
+ plt.show()
+```
+<img width="1083" height="657" alt="image" src="https://github.com/user-attachments/assets/978940c1-cf85-4dac-a47e-14434a7b961f" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```python
+ numeric_df = df.select_dtypes(include=['float64', 'int64'])
+ corr_matrix = numeric_df.corr()
+ sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
+ plt.title('Heatmap of Titanic Dataset')
+ plt.show()
+```
+<img width="862" height="638" alt="image" src="https://github.com/user-attachments/assets/0c36f8e4-b593-44bf-a138-9532cb6c4a28" />
 
 # Result:
- Thus, all the data visualization techniques of seaborn has been implemented.
+Thus, the Data Visualization using seaborn python library for the given data is implemented successfully
